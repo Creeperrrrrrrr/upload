@@ -125,7 +125,7 @@ export default {
 								},
 								{
 									title: '备注',
-									dataIndex: 'age',
+									dataIndex: 'remark',
 									align: 'center',
 									width: '6%',
 								},
